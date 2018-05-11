@@ -1,4 +1,4 @@
-# OIP-JS
+# OIP-INDEX-JS
 [![Build Status](https://travis-ci.org/daviortega/oip-index-js.svg?branch=master)](https://travis-ci.org/daviortega/oip-index-js)
 [![Coverage Status](https://coveralls.io/repos/github/daviortega/oip-index-js/badge.svg?branch=master)](https://coveralls.io/github/daviortega/oip-index-js?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
