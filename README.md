@@ -1,5 +1,8 @@
 # OIP-JS
-An NPM module containing all of the core functionality to run any OIP front end.
+[![Build Status](https://travis-ci.org/daviortega/oip-index-js.svg?branch=master)](https://travis-ci.org/daviortega/oip-index-js)
+[![Coverage Status](https://coveralls.io/repos/github/daviortega/oip-index-js/badge.svg?branch=master)](https://coveralls.io/github/daviortega/oip-index-js?branch=master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+An NPM module containing the query functionalities to run OIP front ends.
 
 ## Work in Progress
 This section is a work in progress, so more information will be added periotically. Information may be out of data, for latest information, please read the code :)
