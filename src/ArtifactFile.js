@@ -172,6 +172,12 @@ class ArtifactFile {
 			if (fileObj.disBuy){
 				this.setDisallowBuy(fileObj.disBuy)
 			}
+			if (fileObj.sugPlay){
+				this.setSuggestedPlayCost(fileObj.sugPlay)
+			}
+			if (fileObj.sugBuy){
+				this.setSuggestedBuyCost(fileObj.sugBuy)
+			}
 		}
 	}
 	capitalizeFirstLetter(string){
