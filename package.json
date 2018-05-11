@@ -1,7 +1,7 @@
 {
-  "name": "oip-js",
-  "version": "1.1.21",
-  "description": "The core module of OIP written in Javascript!",
+  "name": "oip-index-js",
+  "version": "0.1.0",
+  "description": "The query module of OIP written in Javascript!",
   "main": "lib/babel.js",
   "scripts": {
     "test": "NODE_PATH=node_modules node_modules/.bin/nyc node_modules/.bin/mocha --require babel-register --reporter ${MOCHA_REPORTER-spec} $(find tests -name '*tests.js')",
@@ -13,17 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oipwg/oip-js.git"
+    "url": "git+https://github.com/daviortega/oip-index-js.git"
   },
   "keywords": [
     "oip"
   ],
-  "author": "Skylar Ostler <sky@alexandria.io>",
+  "contributors": [
+    "Davi Ortega <ortegad@caltech.edu>",
+    "Sky Young <sky@alexandria.io>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oipwg/oip-js/issues"
+    "url": "https://github.com/daviortega/oip-index-js/issues"
   },
-  "homepage": "https://github.com/oipwg/oip-js#readme",
+  "homepage": "https://github.com/daviortega/oip-index-js#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
